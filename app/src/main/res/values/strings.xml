@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BarCodeProyect</string>
+    <string name="app_titulo">Lectora de Códigos</string>
+    <string name="Scan">Scan</string>
+    <string name="Listar">Listar</string>
+    <string name="Volver">Volver</string>
+    <string name="Compartir">Compartir</string>
+    <string name="LimpiarLista">Limpiar lista</string>
+</resources>
